@@ -21,6 +21,7 @@ Simple theses manager in Laravel
 ## First look
 
 Welcome page -
+
 <p align="center"><img src="https://i.imgur.com/BRa8jV8.png"  style="padding-bottom:30px"></p>
 
 Admin dashboard - 
@@ -37,6 +38,7 @@ Professor dashboard (add thesis) -
 
 Professor dashboard (edit) -
 <p align="center"><img src="https://i.imgur.com/SH5zwzh.png " style="padding-bottom:30px;"></p>
+
 
 ## Related
 
